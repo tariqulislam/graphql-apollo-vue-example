@@ -2,6 +2,10 @@
 
 > this is example project for graphql with vue js
 
+## install Vuetify in Vue JS
+
+https://vuetifyjs.com/en/getting-started/quick-start
+
 ## Build Setup
 
 ``` bash
