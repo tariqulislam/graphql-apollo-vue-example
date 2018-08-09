@@ -2,11 +2,17 @@
     <div>this is author</div>
 </template>
 <script>
-import Author from '../../models/Author'
+import Author from '@/models/Author'
 export default {
   name: 'Author',
   data: () => {
     return Author
+  },
+  created: {
+
+  },
+  methods: {
+
   }
 }
 </script>
